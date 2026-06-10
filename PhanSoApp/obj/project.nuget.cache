@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4W4zWbup/4qXgsY1NSlyQgnE0wgjZgim/wzs4eoGzHLMJW4WbUYWT5wyW5zO2VHifRKXVCph/b653O+TsgnV6g==",
+  "dgSpecHash": "rVIZ4HAA4Y8=",
   "success": true,
-  "projectFilePath": "/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/PhanSoApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\PhanSoApp\\PhanSoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
