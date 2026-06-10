@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/PhanSoApp.csproj": {}
+    "F:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\PhanSoApp\\PhanSoApp.csproj": {}
   },
   "projects": {
-    "/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/PhanSoApp.csproj": {
+    "F:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\PhanSoApp\\PhanSoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/PhanSoApp.csproj",
+        "projectUniqueName": "F:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\PhanSoApp\\PhanSoApp.csproj",
         "projectName": "PhanSoApp",
-        "projectPath": "/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/PhanSoApp.csproj",
-        "packagesPath": "/home/andynguyen/.nuget/packages/",
-        "outputPath": "/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/",
+        "projectPath": "F:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\PhanSoApp\\PhanSoApp.csproj",
+        "packagesPath": "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\",
+        "outputPath": "F:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\PhanSoApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/andynguyen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Duy_Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -32,10 +33,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -48,12 +56,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.28, 8.0.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
