@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhanSoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75c23b26fd439c5888c6d3bfea7a7d5c42e884e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5738b4975c730d3e0585ece3b94a220f938e7d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhanSoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhanSoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

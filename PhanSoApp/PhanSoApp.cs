@@ -120,8 +120,18 @@ public class PhanSo
         {
             return a.TuSo * b.MauSo > a.MauSo * b.TuSo;
         }
+    
+    public override bool Equals(object? obj)
+    {
+        if (obj is PhanSo other) {
+            return this == other; // Sử dụng operator == đã định nghĩa
+        }
+        return false;
+    }
 
-
-
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(TuSo, MauSo);
+    }
   }
 }
