@@ -1,0 +1,14 @@
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/bin/Debug/net8.0/PhanSoApp
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/bin/Debug/net8.0/PhanSoApp.deps.json
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/bin/Debug/net8.0/PhanSoApp.runtimeconfig.json
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/bin/Debug/net8.0/PhanSoApp.dll
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/bin/Debug/net8.0/PhanSoApp.pdb
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.AssemblyInfoInputs.cache
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.AssemblyInfo.cs
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.csproj.CoreCompileInputs.cache
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.dll
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/refint/PhanSoApp.dll
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.pdb
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/PhanSoApp.genruntimeconfig.cache
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/PhanSoApp/obj/Debug/net8.0/ref/PhanSoApp.dll
