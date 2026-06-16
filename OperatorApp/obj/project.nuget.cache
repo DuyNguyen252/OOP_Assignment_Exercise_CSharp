@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TfJ+Ifhc4QU=",
+  "success": true,
+  "projectFilePath": "f:\\SPKT HCMUTE CNKT\\[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong\\C#\\OperatorApp\\OperatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\Duy_Nguyen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
