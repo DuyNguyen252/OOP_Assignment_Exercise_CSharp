@@ -1,0 +1,15 @@
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/bin/Debug/net8.0/OperatorApp
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/bin/Debug/net8.0/OperatorApp.deps.json
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/bin/Debug/net8.0/OperatorApp.runtimeconfig.json
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/bin/Debug/net8.0/OperatorApp.dll
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/bin/Debug/net8.0/OperatorApp.pdb
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.AssemblyInfoInputs.cache
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.AssemblyInfo.cs
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.csproj.CoreCompileInputs.cache
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.sourcelink.json
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.dll
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/refint/OperatorApp.dll
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.pdb
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/OperatorApp.genruntimeconfig.cache
+/mnt/f/SPKT HCMUTE CNKT/[OOPR230279_25_2_02TX]-Lap-trinh-huong-doi-tuong/C#/OperatorApp/obj/Debug/net8.0/ref/OperatorApp.dll
