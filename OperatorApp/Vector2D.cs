@@ -38,5 +38,39 @@ public class Vector2D
     public override string ToString()
     => $"({X:F2}, {Y:F2})";
 
+    public static bool operator ==(Vector2D a, Vector2D b)
+    {
+        if (ReferenceEquals(a, null)) return ReferenceEquals(b, null);
+        if (ReferenceEquals(b, null)) return false;
+        return a.X == b.X && a.Y == b.Y;
     }
+
+    public static bool operator !=(Vector2D a, Vector2D b)
+    {
+        return !(a == b);
+    }
+
+    public override bool Equals(object obj)
+    {
+        if (obj is Vector2D other) return this == other;
+        return false;
+    }
+
+    public override int GetHashCode() => HashCode.Combine(X, Y);
+
+
+        // 2. Cài đặt tích vô hướng (dot product) bằng operator * giữa hai Vector2D
+    public static double operator *(Vector2D a, Vector2D b)
+        => a.X * b.X + a.Y * b.Y;
+
+
+        // 3. Cài đặt toán tử chuyển đổi implicit từ (double x, double y) tuple sang Vector2D
+    public static implicit operator Vector2D((double x, double y) tuple)
+        => new Vector2D(tuple.x, tuple.y);
+
+
+
+    }
+
+    
 }

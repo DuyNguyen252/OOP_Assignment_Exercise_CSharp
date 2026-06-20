@@ -64,4 +64,51 @@ public class Money
 
     public override string ToString()
         => $"{Amount:N0} {Currency}";
+
+    // 1. Thêm phương thức static Money QuyDoi(Money nguon, string donViDich, decimal tyGia)
+    public static Money QuyDoi(Money nguon, string donViDich, decimal tyGia)
+    {
+        if (nguon == null) return null;
+
+        // Tính số tiền mới dựa trên tỷ giá quy đổi
+        decimal soTienMoi = nguon.Amount * tyGia;
+        return new Money(soTienMoi, donViDich);
+    }
+
+    // 2. Cài đặt operator == và != cho Money (Kể cả khi khác đơn vị thì luôn != nhau)
+    public static bool operator ==(Money a, Money b)
+    {
+        // Kiểm tra null an toàn trước khi so sánh
+        if (ReferenceEquals(a, null)) return ReferenceEquals(b, null);
+        if (ReferenceEquals(b, null)) return false;
+
+        // Phải cùng đơn vị tiền tệ VÀ cùng số tiền thì mới bằng nhau
+        return a.Currency == b.Currency && a.Amount == b.Amount;
+    }
+
+    public static bool operator !=(Money a, Money b)
+    {
+        return !(a == b);
+    }
+
+    // Ghi đè Equals và GetHashCode để đồng bộ với toán tử ==
+    public override bool Equals(object obj)
+    {
+        if (obj is Money other) return this == other;
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(Amount, Currency);
+    }
+
+    // 3. Thêm toán tử / để chia tiền (chia hóa đơn)
+    public static Money operator /(Money m, int k)
+    {
+        if (k == 0) throw new DivideByZeroException("Không thể chia tiền cho 0 người.");
+        if (m == null) return null;
+
+        return new Money(m.Amount / k, m.Currency);
+    }
 }
